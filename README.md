@@ -1,4 +1,3 @@
-![a](https://imgur.com/KI4iNyL.png)
 
 ## Um projeto totalmente livre
 
