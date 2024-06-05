@@ -13,7 +13,7 @@ module.exports = {
         let embed = new EmbedBuilder()
             .setTitle("Resgate sua Insígnia de Desenvolvedor Ativo")
             .setDescription(`[Clique aqui para resgatar sua insígnia](https://discord.com/developers/active-developer)`)
-            .setColor(0x7289DA) // Cor padrão do Discord
+            .setColor(0x7289DA) 
             .setFooter({ text: "Mantenha-se ativo e contribua para a comunidade!", iconURL: client.user.displayAvatarURL({ dynamic: true }) })
             .setTimestamp();
 
