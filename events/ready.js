@@ -3,9 +3,8 @@ const {ActivityType } = require('discord.js');
 
 // Lista de atividades
 const activities = [
-    { name: 'https://www.nortepages.tech', type: ActivityType.Playing },
-    { name: 'https://www.nortepages.tech', type: ActivityType.Watching },
-    { name: 'https://www.nortepages.tech', type: ActivityType.Listening }
+  { name: "Fivem", type: ActivityType.Playing },
+  { name: "Fivem", type: ActivityType.Watching },
 ];
 
 client.on('ready', async () => {
