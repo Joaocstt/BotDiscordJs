@@ -9,7 +9,7 @@ práticas do JavaScript para criar um bot simples e funcional.
 Este projeto te guia na criação de um bot Discord.js funcional, perfeito para quem busca:
 
 - Aprofundar seus conhecimentos em JavaScript e Discord.js
-- Conquistar o Dev Badge do Discord: Ative a insignia de Dev Ativo.
+- Conquistar o Dev Badge do Discord
 
 ## Como usar
 
@@ -41,5 +41,4 @@ Este projeto te guia na criação de um bot Discord.js funcional, perfeito para 
 
 Documentação do Discord.js: https://discord.js.org/
 
-Com este projeto, você estará pronto para criar bots Discord.js.
 
